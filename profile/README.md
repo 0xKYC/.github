@@ -59,7 +59,6 @@ We would love if you would join our cause for a private and safe future: without
 - [ ] API creation for Request IDs
 - [ ] Improvements to the website
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,7 +95,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 3. Start App
    ```sh
-  npm run start
+   npm run start
    ```
 
 
