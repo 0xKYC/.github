@@ -63,8 +63,14 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## The Team (join us)
 
-
+- Dylan Wysocki wysocki.exe wysocki.eth
+- Pylyp Radionov mr13tech 0x1b3fd358c66974572cd7c77b5Be7759C67c178B1 
+- Altan Tutar altanboost 0x29e458e6b0EeA1767E7FE0F65193E6d52189f839
+- Jeremy Osborne jcottoz 0x03e0F49a7F20bC7316951369207c0d22dDE5e014
+- Adam Zasada adag1o adag1o.eth
+Feel free to donate us (we love NFTs with no floor price and ETH and testnet funds)...
 
 ### Prerequisites
 
