@@ -22,11 +22,11 @@
     Thanks for checking out the 0xKYC EthWarsaw submition!
     <br />
     <br />
-    <a href="https://github.com/0xKYC/.github/blob/main/0xKYC.pdf">View Demo</a>
+    <a href="https://github.com/0xKYC/.github/blob/main/0xKYC.pdf">View Slide Deck Demo</a>
     ·
-    <a href="https://github.com/0xKYC/issues">Report Bug</a>
+    <a href="0xkyc.pl">Website</a>
     ·
-    <a href="https://github.com/0xKYC/issues">Request Feature</a>
+    <a href="https://youtu.be/sPlM57Eh2Cc">Demo Video</a>
   </p>
 </div>
 
