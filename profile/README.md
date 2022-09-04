@@ -70,7 +70,7 @@ We would love if you would join our cause for a private and safe future: without
 - Altan Tutar (altanboost) - 0x29e458e6b0EeA1767E7FE0F65193E6d52189f839
 - Jeremy Osborne (jcottoz) - 0x03e0F49a7F20bC7316951369207c0d22dDE5e014
 - Adam Zasada (adag1o) - adag1o.eth
-Feel free to donate us (we love NFTs with no floor price and ETH and testnet funds)...
+- Feel free to donate us (we love NFTs with no floor price and ETH and testnet funds)...
 
 ### Prerequisites
 
