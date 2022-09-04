@@ -106,7 +106,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- LICENSE -->
 ## License
 
-Distributed under the GPT - 3.0 License. 
+Distributed under the GPL - 3.0 License. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
