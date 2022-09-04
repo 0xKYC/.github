@@ -32,7 +32,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-Website might not load on the venue's WIFI!!!!! 
+*Website might not load on the venue's WIFI!!!!! 
 ## About The Project
 
 We are 0xKYC -- an open source -- free for all -- awesome ZK proof KYC solution.
@@ -116,7 +116,7 @@ Distributed under the GPT - 3.0 License.
 
 Special thanks to:
 
-* [ETHWarsaw](https://www.ethwarsaw.dev/))
+* [ETHWarsaw](https://www.ethwarsaw.dev/)
 * [Arweave](https://www.arweave.org/)
 * [AAVE](https://aave.com/)
 * [MetaMask](https://metamask.io/)
@@ -124,6 +124,7 @@ Special thanks to:
 * [Ramp](https://ramp.network/)
 * [RedStone](https://redstone.finance/)
 * [UseDapp](https://usedapp.io/)
+* [idriss](https://www.idriss.xyz/)
 * ...and all the other teams!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
