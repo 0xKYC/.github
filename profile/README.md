@@ -22,7 +22,7 @@
     Thanks for checking out the 0xKYC EthWarsaw submition!
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/0xKYC/.github/blob/main/0xKYC.pdf">View Demo</a>
     ·
     <a href="https://github.com/0xKYC/issues">Report Bug</a>
     ·
