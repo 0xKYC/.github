@@ -32,7 +32,6 @@
 
 
 <!-- ABOUT THE PROJECT -->
-*Website might not load on the venue's WIFI!!!!! 
 ## About The Project
 
 We are 0xKYC -- an open source -- free for all -- awesome ZK proof KYC solution.
