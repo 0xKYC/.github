@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://0xkyc.pl/">
     <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/33715/sun-clipart-xl.png" alt="Logo" width="80" height="80">
   </a>
 
