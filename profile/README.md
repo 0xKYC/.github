@@ -71,31 +71,6 @@ We would love if you would join our cause for a private and safe future: without
 - Adam Zasada (adag1o) - adag1o.eth
 - Feel free to donate us (we love NFTs with no floor price and ETH and testnet funds)...
 
-### Prerequisites
-
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-
-### Installation
-
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-3. Start App
-   ```sh
-   npm run start
-   ```
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -122,7 +97,6 @@ Special thanks to:
 * [UseDapp](https://usedapp.io/)
 * [idriss](https://www.idriss.xyz/)
 * ...and all the other teams!
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
