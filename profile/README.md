@@ -74,14 +74,6 @@ We would love if you would join our cause for a private and safe future: without
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the GPL - 3.0 License. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
