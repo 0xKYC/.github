@@ -50,8 +50,8 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - [x] Incorporation
 - [x] KYC Integration
 - [x] Extended token with ZK proof 
-- [x] v1 MVP (Nationality + age)
-- [ ] Commercial integrations
+- [x] Localhost MVP (nationality + age)
+- [ ] Pilot integrations
 - [ ] Audit
 - [ ] Production release 
 - [ ] Uniqueness Verification 
