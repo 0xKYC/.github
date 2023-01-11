@@ -13,19 +13,19 @@
 <br />
 <div align="center">
   <a href="https://0xkyc.pl/">
-    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/33715/sun-clipart-xl.png" alt="Logo" width="80" height="80">
+    <img src="https://image-hosting-0xkyc.s3.amazonaws.com/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">0xKYC</h3>
 
   <p align="center">
-    Thanks for checking out the 0xKYC EthWarsaw submition!
+    Thanks for checking out the 0xKYC GitHub!
     <br />
-    <a href="https://github.com/0xKYC/.github/blob/main/0xKYC.pdf">View Slide Deck Demo</a>
+    <a href="https://www.notion.so/0xkyc/0xKYC-Public-Documentation-f7db271a06e840f7862a929fb9f42299">View Public Documentation</a>
     ·
     <a href="https://0xkyc.pl/">Website</a>
     ·
-    <a href="https://youtu.be/sPlM57Eh2Cc">Demo Video</a>
+    <a href="">Demo Video</a>
   </p>
     Contact us at ajgzasada@gmail.com
 </div>
@@ -34,16 +34,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-We are 0xKYC -- an open source -- free for all -- awesome ZK proof KYC solution.
-With our solution you can provide information about banking-grade KYC, AML, CFT, Sanctions and PEP checks and put them on the blockchain.
-Our technology will enable you to put your data on the blockchain (like nationality, tax residency and results of the above checks) without disclosing any other data!
+At 0xKYC we create a KYC check to verify if a user is OFAC sanctioned without showing their name on-chain
 
-It is a simple, yet powerful org project to prevent the likes of Tornado Cash in the future!
-If you have our ZK proof soulbound token in your wallet (with limited time validity for security purposes) you are allowed to interact with top grade DeFi protocols which require you to have our soulbound token.
+Our soulbound token contains a zero knowledge proof that confirms an individual is over 18 years of age, is not sanctioned and not on known fraud wallet address list. In the future we will add uniqueness verification (to verify users across different wallets) and full KYC data integration.
 
-This use case can be greatly expanded so don't forget to contact one of us (adag1o, dylan.exe, altanboost etc.) to fill you in on the details!!
-Long story short, we believe DeFi is going to be regulated and we provide a solution to do checks "offline" and to put the results of them on the blockchain, currently as soulbound tokens but we also have ideas how to develop it into even smarter contracts in the future..
-We would love if you would join our cause for a private and safe future: without money laundering and financing of terrorism.
+There are multiple use cases for our solution: uniqueness verification for airdrops and mints, checking of source of funds-in and funds-out, DeFi protocols OFAC compliance, DAO governance security and others.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -52,43 +47,50 @@ We would love if you would join our cause for a private and safe future: without
 ## Roadmap
 
 - [x] Submit ETHWarsaw 2022 hackathon
-- [ ] KYC provider integration
-- [ ] Extended token with ZK proof
-- [ ] First commercial integration (pilot)
-- [ ] Addition of a global smart contract?
-- [ ] API creation for Request IDs
-- [ ] Improvements to the website
+- [x] Incorporation
+- [x] KYC Integration
+- [x] Extended token with ZK proof 
+- [x] v1 MVP (Nationality + age)
+- [ ] Commercial integrations
+- [ ] Audit
+- [ ] Production release 
+- [ ] Uniqueness Verification 
+- [ ] Reusability
+- [ ] ...
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## The Team (join us)
+## The Team 
 
-- Dylan Wysocki (wysocki.exe) - wysocki.eth
-- Pylyp Radionov (mr13tech) - 0x1b3fd358c66974572cd7c77b5Be7759C67c178B1 
-- Altan Tutar (altanboost) - 0x29e458e6b0EeA1767E7FE0F65193E6d52189f839
-- Jeremy Osborne (jcottoz) - 0x03e0F49a7F20bC7316951369207c0d22dDE5e014
-- Adam Zasada (adag1o) - adag1o.eth
-- Feel free to donate us (we love NFTs with no floor price and ETH and testnet funds)...
+- Adam Zasada (CEO) 
+- Dylan Wysocki (CTO)
+- Sebastian Ołdak (Front End Engineer)
+- Pylyp Radionov (Code Contributor) 
+- Kamil Dzieniszewski (Code Contributor)
+- Altan Tutar (Fundraising Advisor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Backed By:
+
+* [Outlier Ventures](https://outlierventures.io/)
+* [New Order](https://neworder.network/)
+
+## Partners:
+
+* [OKX Web3](https://www.okx.com/web3)
+* [IdentDeFi](https://identdefi.xyz/)
+* [Cryptum](https://cryptum.io/)
+* [Lomads](https://www.lomads.co/)
+
 
 Special thanks to:
 
 * [ETHWarsaw](https://www.ethwarsaw.dev/)
-* [Arweave](https://www.arweave.org/)
-* [AAVE](https://aave.com/)
-* [MetaMask](https://metamask.io/)
-* [TrueFi](https://truefi.io/)
-* [Ramp](https://ramp.network/)
-* [RedStone](https://redstone.finance/)
-* [UseDapp](https://usedapp.io/)
-* [idriss](https://www.idriss.xyz/)
-* ...and all the other teams!
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
