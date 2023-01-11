@@ -22,10 +22,7 @@
     Thanks for checking out the 0xKYC GitHub!
     <br />
     <a href="https://www.notion.so/0xkyc/0xKYC-Public-Documentation-f7db271a06e840f7862a929fb9f42299">View Public Documentation</a>
-    ·
-    <a href="https://0xkyc.pl/">Website</a>
-    ·
-    <a href="">Demo Video</a>
+    
   </p>
     Contact us at ajgzasada@gmail.com
 </div>
