@@ -83,7 +83,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 * [IdentDeFi](https://identdefi.xyz/)
 * [Cryptum](https://cryptum.io/)
 * [Lomads](https://www.lomads.co/)
-* Your Name here...
+* & more
 
 
 Special thanks to:
