@@ -22,7 +22,7 @@
     Thanks for checking out our 0xKYC GitHub!
     <br />
     <a href="https://www.notion.so/0xkyc/0xKYC-Public-Documentation-f7db271a06e840f7862a929fb9f42299">View Public Documentation</a> |  
-        <a href="https://github.com/0xKYC/.docs/blob/main/IMPLEMENTATION.md">View Implementation Documentation</a>
+        <a href="https://github.com/0xKYC/.docs/blob/main/IMPLEMENTATION.md">Implementation Documentation</a>
     
   </p>
     Contact us at support@0xkyc.id
@@ -66,7 +66,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - Sebastian Ołdak (Front End Engineer)
 - Pylyp Radionov (Code Contributor) 
 - Kamil Dzieniszewski (Code Contributor)
-- Altan Tutar (Fundraising Advisor)
+- Jeremy Osborne (Sales Ops Advisor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,6 +83,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 * [IdentDeFi](https://identdefi.xyz/)
 * [Cryptum](https://cryptum.io/)
 * [Lomads](https://www.lomads.co/)
+* Your Name here...
 
 
 Special thanks to:
