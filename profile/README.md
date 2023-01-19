@@ -66,7 +66,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - Sebastian Ołdak (Front End Engineer)
 - Pylyp Radionov (Code Contributor) 
 - Kamil Dzieniszewski (Code Contributor)
-- Jeremy Osborne (Sales Ops)
+- Jeremy Osborne (Sales Operations)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
