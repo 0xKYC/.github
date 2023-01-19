@@ -47,12 +47,12 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - [x] Submit ETHWarsaw 2022 hackathon
 - [x] Incorporation
 - [x] KYC Integration
-- [x] Extended token with ZK proof 
+- [x] Extended token with ZK proof
 - [x] Localhost MVP (nationality + age)
 - [ ] Pilot integrations
 - [ ] Audit
-- [ ] Production release 
-- [ ] Uniqueness Verification 
+- [ ] Production release
+- [ ] Uniqueness verification
 - [ ] Reusability
 - [ ] ...
 
@@ -83,7 +83,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 * [IdentDeFi](https://identdefi.xyz/)
 * [Cryptum](https://cryptum.io/)
 * [Lomads](https://www.lomads.co/)
-* & more
+* ...
 
 
 Special thanks to:
