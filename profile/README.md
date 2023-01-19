@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://0xkyc.pl/">
+  <a href="https://0xkyc.id/">
     <img src="https://image-hosting-0xkyc.s3.amazonaws.com/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -22,9 +22,10 @@
     Thanks for checking out our 0xKYC GitHub!
     <br />
     <a href="https://www.notion.so/0xkyc/0xKYC-Public-Documentation-f7db271a06e840f7862a929fb9f42299">View Public Documentation</a>
+        <a href="https://github.com/0xKYC/.docs/blob/main/IMPLEMENTATION.md">View Implementation Documentation</a>
     
   </p>
-    Contact us at ajgzasada@gmail.com
+    Contact us at support@0xkyc.id
 </div>
 
 
