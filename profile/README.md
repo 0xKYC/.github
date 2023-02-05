@@ -64,6 +64,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - Adam Zasada (CEO) 
 - Dylan Wysocki (CTO)
 - Sebastian Ołdak (Front End Engineer)
+- Alicja O'Connor (Founders Associate)
 - Pylyp Radionov (Code Contributor) 
 - Kamil Dzieniszewski (Code Contributor)
 - Jeremy Osborne (Sales Operations)
