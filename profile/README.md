@@ -50,10 +50,10 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - [x] Extended token with ZK proof
 - [x] Localhost MVP (nationality + age)
 - [ ] Pilot integrations
+- [ ] Reusability
 - [ ] Audit
 - [ ] Production release
 - [ ] Uniqueness verification
-- [ ] Reusability
 - [ ] ...
 
 
@@ -81,7 +81,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 ## Partners:
 
 * [OKX Web3](https://www.okx.com/web3)
-* [IdentDeFi](https://identdefi.xyz/)
+* [Blue.fi](https://www.blue.fi/)
 * [Cryptum](https://cryptum.io/)
 * [Lomads](https://www.lomads.co/)
 * ...
