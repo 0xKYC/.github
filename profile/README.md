@@ -32,11 +32,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-At 0xKYC we create a KYC check to verify if a user is OFAC sanctioned without showing their name on-chain
+At 0xKYC, we create a KYC check to verify if a user is OFAC-sanctioned without showing their name on-chain.
 
-Our soulbound token contains a zero knowledge proof that confirms an individual is over 18 years of age, is not sanctioned and not on known fraud wallet address list. In the future we will add uniqueness verification (to verify users across different wallets) and full KYC data integration.
+Our soulbound token contains a zero-knowledge proof that confirms an individual is over 18 years of age, is not sanctioned, and is not on any known fraud wallet address lists. In the future, we will add uniqueness verification (to verify users across different wallets) and full KYC data integration.
 
-There are multiple use cases for our solution: uniqueness verification for airdrops and mints, checking of source of funds-in and funds-out, DeFi protocols OFAC compliance, DAO governance security and others.
+There are multiple use cases for our solution: uniqueness verification for airdrops and mints, checking the source of funds-in and funds-out, OFAC compliance for DeFi protocols, DAO governance security, and others.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
