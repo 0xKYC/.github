@@ -68,6 +68,9 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - Pylyp Radionov (Code Contributor) 
 - Kamil Dzieniszewski (Code Contributor)
 - Jeremy Osborne (Sales Operations)
+- Damien Roualen (Code Contributor)
+- Min-gyun Chae (Back End Engineer)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
