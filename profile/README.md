@@ -49,11 +49,12 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - [x] KYC Integration
 - [x] Extended token with ZK proof
 - [x] Localhost MVP (nationality + age)
+- [x] Reusability
+- [x] Launch app on testnet
+- [ ] Uniqueness verification
 - [ ] Pilot integrations
-- [ ] Reusability
 - [ ] Audit
 - [ ] Production release
-- [ ] Uniqueness verification
 - [ ] ...
 
 
@@ -87,6 +88,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 * [Blue.fi](https://www.blue.fi/)
 * [Cryptum](https://cryptum.io/)
 * [Lomads](https://www.lomads.co/)
+* [MTHRBRD](https://www.motherboard.fi/)
 * ...
 
 
