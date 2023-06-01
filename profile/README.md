@@ -51,8 +51,8 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - [x] Localhost MVP (nationality + age)
 - [x] Reusability
 - [x] Launch app on testnet
-- [ ] Uniqueness verification
-- [ ] Pilot integrations
+- [x] Uniqueness verification
+- [x] Pilot integrations
 - [ ] Audit
 - [ ] Production release
 - [ ] ...
@@ -89,6 +89,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 * [Cryptum](https://cryptum.io/)
 * [Lomads](https://www.lomads.co/)
 * [MTHRBRD](https://www.motherboard.fi/)
+* [Insert Stonks](https://games.insertstonks.io/)
 * ...
 
 
