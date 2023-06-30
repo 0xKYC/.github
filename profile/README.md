@@ -53,8 +53,8 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - [x] Launch app on testnet
 - [x] Uniqueness verification
 - [x] Pilot integrations
-- [ ] Audit
-- [ ] Production release
+- [x] Audit
+- [x] Production release
 - [ ] ...
 
 
