@@ -55,18 +55,19 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - [x] Pilot integrations
 - [x] Audit
 - [x] Production release
-- [ ] ...
+- [x] ...
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## The Team 
 
-- Adam Zasada (CEO) 
+- Adam Zasada (CEO)
 - Dylan Wysocki (CTO)
 - Sebastian Ołdak (Front End Engineer)
 - Alicja O'Connor (Founders Associate)
-- Pylyp Radionov (Code Contributor) 
+- Lindsay Keyfauver (Head of Partnerships)
+- Pylyp Radionov (Code Contributor)
 - Kamil Dzieniszewski (Code Contributor)
 - Jeremy Osborne (Sales Operations)
 - Damien Roualen (Code Contributor)
@@ -81,6 +82,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 
 * [Outlier Ventures](https://outlierventures.io/)
 * [New Order](https://neworder.network/)
+* [BuffiCorn Ventures](https://bufficorn.ventures/)
 
 ## Partners:
 
