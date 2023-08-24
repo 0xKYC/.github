@@ -21,8 +21,7 @@
   <p align="center">
     Thanks for checking out our 0xKYC GitHub!
     <br />
-    <a href="https://www.notion.so/0xkyc/0xKYC-Public-Documentation-f7db271a06e840f7862a929fb9f42299">View Public Documentation</a> |  
-        <a href="https://github.com/0xKYC/.docs/blob/main/IMPLEMENTATION.md">Implementation Documentation</a>
+    <a href="https://docs.0xkyc.id/">View Documentation</a>
     
   </p>
     Contact us at support@0xkyc.id
@@ -32,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-At 0xKYC, we create an onchain KYC check to verify if a user is OFAC-sanctioned without showing their name onchain and we verify if they are unique and don't have duplicate accounts - the latter flow does not require an ID and only requires biometric verification, discover info at docs.0xkyc.id
+At 0xKYC, we create an onchain KYC check to verify if a user is OFAC-sanctioned without showing their name onchain and we verify if they are unique and don't have duplicate accounts - the latter flow does not require an ID and only requires biometric verification, discover more at docs.0xkyc.id
 
 Our soulbound tokens contain a zero-knowledge proof that confirms an individual is over 18 years of age, is not sanctioned, and is not on any known fraud wallet address lists. We added uniqueness verification (to verify users across different wallets and on Discord), we'll add full KYC verification.
 
@@ -55,7 +54,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - [x] Pilot integrations
 - [x] Audit
 - [x] Production release
-- [x] ...
+- [x] Go Viral...
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
