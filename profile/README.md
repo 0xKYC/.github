@@ -32,11 +32,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-At 0xKYC, we create a KYC check to verify if a user is OFAC-sanctioned without showing their name on-chain.
+At 0xKYC, we create an onchain KYC check to verify if a user is OFAC-sanctioned without showing their name on-chain and we verify if they are unique and don't have duplicate accounts - the latter flow does not require an ID and only requires biometric verification, discover info at docs.0xkyc.id
 
-Our soulbound token contains a zero-knowledge proof that confirms an individual is over 18 years of age, is not sanctioned, and is not on any known fraud wallet address lists. In the future, we will add uniqueness verification (to verify users across different wallets) and full KYC data integration.
+Our soulbound tokens contain a zero-knowledge proof that confirms an individual is over 18 years of age, is not sanctioned, and is not on any known fraud wallet address lists. We added uniqueness verification (to verify users across different wallets and on Discord), we'll add full KYC verification.
 
-There are multiple use cases for our solution: uniqueness verification for airdrops and mints, checking the source of funds-in and funds-out, OFAC compliance for DeFi protocols, DAO governance security, and others.
+There are multiple use cases for our solution: uniqueness verification for airdrops, mints and Web3 Gaming, checking the source of funds-in and funds-out, OFAC compliance for DeFi protocols and DAO governance security!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,14 +64,14 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 
 - Adam Zasada (CEO)
 - Dylan Wysocki (CTO)
-- Sebastian Ołdak (Front End Engineer)
-- Alicja O'Connor (Founders Associate)
+- Min-gyun Chae (Tech Lead)
 - Lindsay Keyfauver (Head of Partnerships)
-- Pylyp Radionov (Code Contributor)
-- Kamil Dzieniszewski (Code Contributor)
-- Jeremy Osborne (Sales Operations)
-- Damien Roualen (Code Contributor)
-- Min-gyun Chae (Back End Engineer)
+- Sebastian Ołdak (Frontend Engineer)
+- Alicja O'Connor (Founders Associate)
+- Pylyp Radionov (IT Security)
+- Kamil Dzieniszewski (Frontend Engineer)
+- Jeremy Osborne (Partnerships)
+- Damien Roualen (Backend Engineer)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,13 +86,9 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 
 ## Partners:
 
-* [OKX Web3](https://www.okx.com/web3)
-* [Blue.fi](https://www.blue.fi/)
-* [Cryptum](https://cryptum.io/)
-* [Lomads](https://www.lomads.co/)
-* [MTHRBRD](https://www.motherboard.fi/)
-* [Insert Stonks](https://games.insertstonks.io/)
-* ...
+* [Onfido](https://onfido.com/press-release/0xkyc-partners-with-onfido-to-provide-fraud-protection-protocols-on-blockchain-and-in-the-metaverse/)
+* [Hinkal Protocol](https://medium.com/0xkyc/0xkyc-hinkal-protocol-partnership-pioneering-a-secure-private-future-for-defi-2f40197be2b6)
+* [Insert Stonks](https://outlierventures.io/article/securing-the-open-metaverse-0xkyc-and-insert-stonks-collaborate-to-tackle-fraud/)
 
 
 Special thanks to:
