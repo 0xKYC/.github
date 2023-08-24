@@ -32,7 +32,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-At 0xKYC, we create an onchain KYC check to verify if a user is OFAC-sanctioned without showing their name on-chain and we verify if they are unique and don't have duplicate accounts - the latter flow does not require an ID and only requires biometric verification, discover info at docs.0xkyc.id
+At 0xKYC, we create an onchain KYC check to verify if a user is OFAC-sanctioned without showing their name onchain and we verify if they are unique and don't have duplicate accounts - the latter flow does not require an ID and only requires biometric verification, discover info at docs.0xkyc.id
 
 Our soulbound tokens contain a zero-knowledge proof that confirms an individual is over 18 years of age, is not sanctioned, and is not on any known fraud wallet address lists. We added uniqueness verification (to verify users across different wallets and on Discord), we'll add full KYC verification.
 
