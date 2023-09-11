@@ -66,11 +66,12 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - Min-gyun Chae (Tech Lead)
 - Lindsay Keyfauver (Head of Partnerships)
 - Sebastian Ołdak (Frontend Engineer)
-- Alicja O'Connor (Founders Associate)
+- Alicja O'Connor (Head of Operations)
 - Pylyp Radionov (IT Security)
 - Kamil Dzieniszewski (Frontend Engineer)
 - Jeremy Osborne (Partnerships)
 - Damien Roualen (Backend Engineer)
+- Bartosz Jastrzębski (Backend Engineer)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
