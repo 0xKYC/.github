@@ -8,7 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -22,11 +21,10 @@
     Thanks for checking out our 0xKYC GitHub!
     <br />
     <a href="https://docs.0xkyc.id/">View Documentation</a>
-    
-  </p>
+    <br />
     Contact us at support@0xkyc.id
+  </p>
 </div>
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -38,7 +36,6 @@ Our soulbound tokens contain a zero-knowledge proof that confirms an individual 
 There are multiple use cases for our solution: uniqueness verification for airdrops, mints and Web3 Gaming, checking the source of funds-in and funds-out, OFAC compliance for DeFi protocols and DAO governance security!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -56,7 +53,6 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - [x] Production release
 - [x] Go Viral...
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## The Team 
@@ -64,7 +60,6 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - Adam Zasada (CEO)
 - Dylan Wysocki (CTO)
 - Min-gyun Chae (Tech Lead)
-- Lindsay Keyfauver (Head of Partnerships)
 - Sebastian Ołdak (Frontend Engineer)
 - Alicja O'Connor (Head of Operations)
 - Pylyp Radionov (IT Security)
@@ -73,9 +68,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - Damien Roualen (Backend Engineer)
 - Bartosz Jastrzębski (Backend Engineer)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Backed By:
@@ -83,6 +76,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 * [Outlier Ventures](https://outlierventures.io/)
 * [New Order](https://neworder.network/)
 * [BuffiCorn Ventures](https://bufficorn.ventures/)
+* Angels 👼
 
 ## Partners:
 
@@ -90,14 +84,11 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 * [Hinkal Protocol](https://medium.com/0xkyc/0xkyc-hinkal-protocol-partnership-pioneering-a-secure-private-future-for-defi-2f40197be2b6)
 * [Insert Stonks](https://outlierventures.io/article/securing-the-open-metaverse-0xkyc-and-insert-stonks-collaborate-to-tackle-fraud/)
 
-
 Special thanks to:
 
 * [ETHWarsaw](https://www.ethwarsaw.dev/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -122,11 +113,7 @@ Special thanks to:
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[TailwindCSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com/
