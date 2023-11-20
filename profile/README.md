@@ -60,13 +60,13 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - Adam Zasada (CEO)
 - Dylan Wysocki (CTO)
 - Min-gyun Chae (Tech Lead)
-- Sebastian Ołdak (Frontend Engineer)
+- Sebastian Ołdak (Fullstack Engineer)
 - Alicja O'Connor (Head of Operations)
 - Bartosz Jastrzębski (Backend Engineer)
 - Pylyp Radionov (IT Security)
 - Kamil Dzieniszewski (Frontend Engineer)
 - Jeremy Osborne (Partnerships)
-- Damien Roualen (Backend Engineer)
+- Lucas Sobczak (Frontend Engineer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
