@@ -11,9 +11,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://0xkyc.id/">
-    <img src="https://image-hosting-0xkyc.s3.amazonaws.com/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">0xKYC</h3>
 
