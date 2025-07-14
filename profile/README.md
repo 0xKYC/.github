@@ -17,9 +17,7 @@
   <p align="center">
     Thanks for checking out our 0xKYC GitHub!
     <br />
-    <a href="https://docs.0xkyc.id/">View Documentation</a>
-    <br />
-    Contact our dev <a href="https://x.com/adag1oeth">adag1o</a>
+    <a href="https://docs.0xkyc.id/">View Documentation</a> and contact our dev <a href="https://x.com/adag1oeth">adag1o</a>
   </p>
 </div>
 
