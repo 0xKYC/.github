@@ -19,16 +19,18 @@
     <br />
     <a href="https://docs.0xkyc.id/">View Documentation</a>
     <br />
-    Contact us at support@0xkyc.id
+    Contact our dev <a href="https://x.com/adag1oeth">adag1o</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-At 0xKYC, we create an onchain KYC check to verify if a user is OFAC-sanctioned without showing their name onchain and we verify if they are unique and don't have duplicate accounts - the latter flow does not require an ID and only requires biometric verification, discover more at docs.0xkyc.id
+0xKYC is now open source and looking for contributors to help build the first fully private, open-source, and free solution for proof of personhood and uniqueness verification.
 
-Our soulbound tokens contain a zero-knowledge proof that confirms an individual is over 18 years of age, is not sanctioned, and is not on any known fraud wallet address lists. We added uniqueness verification (to verify users across different wallets and on Discord), we'll add full KYC verification.
+At 0xKYC, we create an onchain KYC check to verify if a user is OFAC-sanctioned without showing their name onchain and we verify if they are unique and don't have duplicate accounts – the latter flow does not require an ID and only requires biometric verification, discover more at docs.0xkyc.id.
+
+Our soulbound tokens contain a zero-knowledge proof that confirms an individual is over 18 years of age, is not sanctioned, and is not on any known fraud wallet address lists. We added uniqueness verification (to verify users across different wallets and on Discord), and we'll add full KYC verification.
 
 There are multiple use cases for our solution: uniqueness verification for airdrops, mints and Web3 Gaming, checking the source of funds-in and funds-out, OFAC compliance for DeFi protocols and DAO governance security!
 
@@ -48,11 +50,11 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 - [x] Pilot integrations
 - [x] Audit
 - [x] Production release
-- [x] Go Viral...
+- [x] Go Viral... (well, kind of)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## The Team 
+## The Team (of the original 0xKYC, Inc.)
 
 - Adam Zasada (CEO)
 - Dylan Wysocki (CTO)
@@ -68,7 +70,7 @@ There are multiple use cases for our solution: uniqueness verification for airdr
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Backed By:
+## Backers of 0xKYC:
 
 * [Outlier Ventures](https://outlierventures.io/)
 * [New Order](https://neworder.network/)
